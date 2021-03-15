@@ -1,5 +1,5 @@
 # Rover
-Remote control rover with sensors
+Remote control of the rover, sensor values save to the memory card
 
 Control unit uses ModeMCu ESP8266 and L298 driver board (H-bridge).
 ![alt text](https://github.com/Mettage/Rover/blob/master/Rover_Control.PNG)
